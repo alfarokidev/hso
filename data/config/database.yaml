@@ -3,7 +3,7 @@ database:
   port: 3306
   name: local_server
   username: root
-  password: "@kmzWay87aa"
+  password: "password"
 
   pool:
     maximumPoolSize: 10
